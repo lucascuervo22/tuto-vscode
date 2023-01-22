@@ -1,0 +1,29 @@
+p {
+    font-family: 'Solitreo', cursive;
+    color: red;
+}
+/**
+hijo de puta
+*/
+h1 {
+    font-family: 'Solitreo', cursive;
+    border: 1px solid black;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    margin-right: 35px;
+    padding-top: 10px;
+    font-weight: bold;
+    color: blueviolet;
+    }
+    #particularid {
+        color: chocolate;
+        border: 55px;
+    }
+    p, span {
+        color: chartreuse;
+    }
+    .estaesmiclase {
+        color: indigo;
+        font-weight: bold;
+    }
